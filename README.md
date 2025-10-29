@@ -1,5 +1,7 @@
 # 🗳️ VotePoll Smart Contract
 
+![VotePoll Demo](./Screenshot%202025-10-29%20141802.png)
+
 ## 📖 Project Description
 **VotePoll** is a simple and secure decentralized voting system built on the Celo blockchain.  
 It allows users to cast a single vote for their preferred candidate, ensuring transparency and fairness through smart contract logic.  
